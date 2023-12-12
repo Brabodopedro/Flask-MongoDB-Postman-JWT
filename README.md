@@ -7,5 +7,3 @@ P/ rodar o codigo
 3- pipenv shell
 
 4- python app.py
-
-OBS: Tem q ter Postman e MongoDB instalados
